@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ThumbInfo /> should match snapshot 1`] = `
+<div>
+  <div
+    class="Box-sc-1o1tflv-0 fEBBAJ"
+    display="flex"
+  >
+    <a>
+      <div
+        aria-label="hi! im jhon doe"
+        class="Box-sc-1o1tflv-0 ntrYP"
+        data-testid="thumb-image"
+        height="100px"
+        role="img"
+        width="100px"
+      />
+    </a>
+    <h2
+      class="Box-sc-1o1tflv-0 Text__TextStyled-sc-hojgsa-0 jTFqYA dfiLoS"
+      color="secondary"
+      font-size="20px"
+      font-weight="bold"
+    >
+      Jhon Doe
+    </h2>
+  </div>
+</div>
+`;

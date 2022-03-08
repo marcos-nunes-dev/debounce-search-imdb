@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DebounceSelect /> should match snapshot 1`] = `
+<div>
+  <div
+    class="Box-sc-1o1tflv-0 styles__SelectWrapper-sc-fuj6na-0  SXSqq"
+  >
+    <div
+      class="ant-select ant-select-lg ant-select-single ant-select-show-search"
+      data-testid="antd-select"
+    >
+      <div
+        class="ant-select-selector"
+      >
+        <span
+          class="ant-select-selection-search"
+        >
+          <input
+            aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
+            aria-autocomplete="list"
+            aria-controls="rc_select_TEST_OR_SSR_list"
+            aria-haspopup="listbox"
+            aria-owns="rc_select_TEST_OR_SSR_list"
+            autocomplete="off"
+            class="ant-select-selection-search-input"
+            id="rc_select_TEST_OR_SSR"
+            readonly=""
+            role="combobox"
+            style="opacity: 0;"
+            unselectable="on"
+            value=""
+          />
+        </span>
+        <span
+          class="ant-select-selection-placeholder"
+        >
+          ENTER ACTOR'S NAME...
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
